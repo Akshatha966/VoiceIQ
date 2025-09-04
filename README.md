@@ -36,7 +36,7 @@ python main.py
 ## Technology Stack
 - STT: Gemini 2.5 Flash (google-genai)
 - RAG: LlamaIndex
-- TTS: ElevenLabs and Soundfile
+- TTS: ElevenLabs and Soundfile, Sounddevice
 
 ---
 
@@ -52,4 +52,4 @@ python main.py
 - Retrieval: used VectorIndexRetriever
 ### Eleven Labs TTS
 - Converts LLM text response to audio
-- Used Soundfile for optimization
+- Used Sounddevice for optimization
