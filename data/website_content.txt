@@ -1,0 +1,53 @@
+Artificial Intelligence (AI) is the branch of computer science that focuses on creating intelligent machines 
+capable of performing tasks that typically require human intelligence, such as problem solving, learning, reasoning, perception, and natural language understanding.
+
+Applications of AI:
+- Machine Learning: Algorithms that learn from data
+- Natural Language Processing (NLP): Understanding and generating human language
+- Computer Vision: Image and video analysis
+- Robotics: Autonomous machines and automation
+- Expert Systems: Decision-making support
+
+Official Resources & Organizations:
+- OpenAI: https://www.openai.com/
+- DeepMind: https://www.deepmind.com/
+- MIT CSAIL (Computer Science & AI Lab): https://www.csail.mit.edu/
+- AI at Google: https://ai.google/
+- IBM AI: https://www.ibm.com/artificial-intelligence
+- Stanford AI Lab: http://ai.stanford.edu/
+
+Research Papers & Communities:
+- arXiv AI: https://arxiv.org/list/cs.AI/recent
+- AI Conferences: NeurIPS (https://nips.cc/), ICML (https://icml.cc/)
+- AI StackExchange: https://ai.stackexchange.com/
+
+Educational Platforms:
+- Coursera AI Courses: https://www.coursera.org/browse/data-science/ai
+- edX AI Courses: https://www.edx.org/learn/artificial-intelligence
+- Fast.ai: https://www.fast.ai/
+- AI For Everyone by Andrew Ng: https://www.coursera.org/learn/ai-for-everyone
+
+Social Media Accounts:
+- OpenAI Twitter: https://twitter.com/openai
+- DeepMind Twitter: https://twitter.com/DeepMind
+- MIT CSAIL Twitter: https://twitter.com/mitcsail
+- AI Reddit Community: https://www.reddit.com/r/artificial/
+
+AI Ethics & Guidelines:
+- OECD AI Principles: https://www.oecd.org/going-digital/ai/principles/
+- Partnership on AI: https://www.partnershiponai.org/
+- EU AI Act: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence
+
+AI Tools & Platforms:
+- ChatGPT: https://chat.openai.com/
+- DALL·E: https://openai.com/dall-e
+- TensorFlow: https://www.tensorflow.org/
+- PyTorch: https://pytorch.org/
+- Hugging Face: https://huggingface.co/
+
+Notable Companies using AI:
+- Google AI
+- Microsoft AI
+- NVIDIA AI
+- Amazon Web Services (AWS AI)
+- Facebook AI Research (FAIR)
